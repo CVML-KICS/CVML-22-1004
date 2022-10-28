@@ -1,4 +1,4 @@
-# Hate speech and offensive language
+# Hate Speech and Offensive Language Detection
 
 ## Introduction
 The aim of this project is to detect the hate speech and offensive language or hate tweets in the tweeter data. 
